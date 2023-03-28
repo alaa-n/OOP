@@ -1,0 +1,3 @@
+/Users/alaa/CLionProjects/02OCmitKlassenV2/cmake-build-debug/CMakeFiles/02OCmitKlassenV2.dir
+/Users/alaa/CLionProjects/02OCmitKlassenV2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alaa/CLionProjects/02OCmitKlassenV2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
